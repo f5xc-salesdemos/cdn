@@ -6,18 +6,10 @@
 
 F5 XC content delivery network
 
+
 ## Documentation
 
 Full documentation is available at **[https://f5xc-salesdemos.github.io/cdn/](https://f5xc-salesdemos.github.io/cdn/)**.
-
-## Getting Started
-
-```bash
-git clone https://github.com/f5xc-salesdemos/cdn.git
-```
-
-See the [documentation](https://f5xc-salesdemos.github.io/cdn/) for detailed setup
-and usage guides.
 
 ## Contributing
 
